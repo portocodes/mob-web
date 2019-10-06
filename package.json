@@ -70,7 +70,7 @@
     "raven-js": "3.17.0",
     "react": "16.2.0",
     "react-apollo": "^2.0.4",
-    "react-dom": "16.2.0",
+    "react-dom": "16.2.1",
     "react-hot-loader": "^3.0.0",
     "react-markdown": "^2.5.0",
     "react-onclickoutside": "^6.1.1",
